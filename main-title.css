@@ -1,0 +1,8 @@
+body{margin: 0; padding: 0;}
+.first{background-image: url("back.jpg");background-repeat: no-repeat;background-size: 100% 100vh;    }
+.second{border-right: 2px solid black;}
+.wrap > div{width: 33.21%; height: 99.5vh; float: left;}
+ul{margin: 0; padding: 0; text-align: center; padding-top: 385px;}
+ul>li{list-style: none; font-size: 20px; padding: 15px;}
+.third{text-align: center; line-height: 100vh;}
+a{text-decoration: none; color: black; font-size: 25px; text-decoration: underline;}
